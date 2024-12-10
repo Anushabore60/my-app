@@ -4,7 +4,7 @@ import Centertablecard from "./components/tablecard";
 import Similarproducts from "./components/similarproducts";
 import Scrollanimation from "./components/scroll";
 import Dispatchitems from "./components/dispatch";
-import Footercomponent2, { Footercomponent } from "./components/footer";
+import Footercomponent2 from "./components/footer";
 
 
 export default function Home() {
