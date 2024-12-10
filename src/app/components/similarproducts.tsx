@@ -1,4 +1,4 @@
-import Centertablecard from "./tablecard";
+
 
  
 type similarproductsprops={
